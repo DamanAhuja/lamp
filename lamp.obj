@@ -1,7 +1,7 @@
 #  Viewpoint Datalabs International, Inc.  Copyright 1996
 
 
-mtllib lamp.mtl
+mtllib https://raw.githubusercontent.com/DamanAhuja/lamp/main/lamp.mtl
 
 g
 v 0.000000 8.407028 0.000000
